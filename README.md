@@ -1,7 +1,7 @@
 # How to Run Java Project
 Step 1: Install Java Development Kit (JDK) on your computer. You can download the JDK from the Oracle website or any other reliable source.
 
-Step 2: Suppose I have the source code ( Main.java ) inside This PC > Documents folder. I can simply go there through my file explorer.
+Step 2: Suppose I have the source code ( App.java ) inside This PC > Documents folder. I can simply go there through my file explorer.
 
 Step 3: Go to that folder using 'cd' command.
 

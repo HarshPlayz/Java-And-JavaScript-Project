@@ -7,10 +7,12 @@ Step 3: Go to that folder using 'cd' command.
 
 Step 4: Now, Run this command inside command Prompt:-
 
-        1. javac Main.java  <!-- This is a hidden comment. Only people editing the file can see this! -->
+        1. javac Main.java  
         
         2. java Main 
         
 Your, Java Project is run.
 # Note:
 Closing cmd also close the Java Project.
+# Minecraft Website for All of you
+The website link:- https://minecraft-jscraft.netlify.app

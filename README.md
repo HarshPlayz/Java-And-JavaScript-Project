@@ -7,7 +7,7 @@ Step 3: Go to that folder using 'cd' command.
 
 Step 4: Now, Run this command inside command Prompt:-
 
-        1. javac Main.java  
+        1. javac Main.java  <!-- This is a hidden comment. Only people editing the file can see this! -->
         
         2. java Main 
         

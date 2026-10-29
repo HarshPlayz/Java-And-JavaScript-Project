@@ -7,9 +7,9 @@ Step 3: Go to that folder using 'cd' command.
 
 Step 4: Now, Run this command inside command Prompt:-
 
-        1. javac Main.java  ;Then press enter.
+        1. javac Main.java  
         
-        2. Then java Main ; Then press enter .
+        2. java Main 
         
 Your, Java Project is run.
 # Note:

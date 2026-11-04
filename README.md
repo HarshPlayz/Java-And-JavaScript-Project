@@ -15,7 +15,7 @@ Your, Java Project is run.
 # Note:
 1. Closing cmd also close the Java Project.
 
-2.Do not delete the 'CLASS FILE" 
+2.Do not delete the Main 'CLASS FILE" 
 # Minecraft Website for All of you
 The website link:- https://minecraft-jscraft.netlify.app
 # Thank You
